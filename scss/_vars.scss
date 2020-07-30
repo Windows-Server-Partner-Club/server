@@ -1,0 +1,38 @@
+$gray: #f2f2f2;
+$blue: #0178d8;
+$white: #ffffff;
+$black: #000000;
+
+$base-font: 16;
+
+@function strip-unit($num) {
+  @return $num / ($num * 0 + 1);
+}
+
+@function vw($num) {
+  @return strip-unit($num) / $base-width * 100vw;
+}
+
+@function rem($num) {
+  @return strip-unit($num) / $base-font * 1rem;
+}
+
+$track-h: 0.25em;
+$thumb-d: 2em;
+
+@mixin track() {
+  box-sizing: border-box;
+  border: none;
+  // width: $track-w;
+  height: $track-h;
+  background: #5d5d5d;
+}
+
+@mixin thumb() {
+  box-sizing: border-box;
+  border: none;
+  width: $thumb-d;
+  height: $thumb-d;
+  border-radius: 50%;
+  background: #83bb00;
+}

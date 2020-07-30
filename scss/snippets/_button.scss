@@ -1,0 +1,40 @@
+.button
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  height: rem(80px);
+  padding: 0 rem(50px);
+  font-size: rem(25px);
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+  &--blue
+  {
+    background: $blue;
+    color: $white;
+
+    i {
+      filter: brightness(0) invert(1);
+    }
+  }
+
+  &--white {
+    color: black;
+    background: #f2f2f2;
+  }
+
+  i {
+    display: block;
+    position: relative;
+    top: 1px;
+    width: rem(24px);
+    height: rem(24px);
+    margin-left: rem(12px);
+    background: transparent url(../images/right-thin-chevron.png) 50% 50% no-repeat;
+    background-size: contain;
+  }
+}

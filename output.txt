@@ -1,0 +1,161 @@
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 48; 
+rangeLocDevicesCal: 80; 
+rangeBeforeLocUsers: 50; 
+rangeBeforeLocDevices: 50; 
+nowLicenseType1: on; 
+nowLicenseType1Value: 4; 
+nowLicenseType2: disabled; 
+nowLicenseType2Value: null; 
+nowLicenseType3: on; 
+nowLicenseType3Value: 4; 
+nowLicenseType4: disabled; 
+nowLicenseType4Value: null; 
+contactFormName: Олег; 
+contactFormEmail: wefweff@gmail.com; 
+contactFormPhone: 3425342343234; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 16; 
+rangeLocDevicesCal: 88; 
+rangeBeforeLocUsers: 50; 
+rangeBeforeLocDevices: 50; 
+nowLicenseType1: on; 
+nowLicenseType1Value: 4; 
+nowLicenseType2: disabled; 
+nowLicenseType2Value: null; 
+nowLicenseType3: on; 
+nowLicenseType3Value: 4; 
+nowLicenseType4: disabled; 
+nowLicenseType4Value: null; 
+contactFormName: Олег; 
+contactFormEmail: wefweff@gmail.com; 
+contactFormPhone: 23424234234; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 50; 
+rangeLocDevicesCal: 50; 
+rangeBeforeLocUsers: 50; 
+rangeBeforeLocDevices: 50; 
+nowLicenseType1: on; 
+nowLicenseType1Value: 32; 
+nowLicenseType2: disabled; 
+nowLicenseType2Value: null; 
+nowLicenseType3: on; 
+nowLicenseType3Value: 4; 
+nowLicenseType4: disabled; 
+nowLicenseType4Value: null; 
+contactFormName: Олег; 
+contactFormEmail: wefweff@gmail.com; 
+contactFormPhone: 32234234234234; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 25; 
+rangeLocDevicesCal: 66; 
+beforeLocUsers: 51; 
+beforeLocDevices: 52; 
+usersQuantity: 53; 
+devicesQuantity: 54; 
+nowLicenseType1: on; 
+nowLicenseType2: disabled; 
+nowLicenseType3: disabled; 
+nowLicenseType4: on; 
+nowCalVersion1: disabled; 
+nowCalVersion2: on; 
+nowCalVersion3: on; 
+nowCalVersion4: disabled; 
+contactFormName: Oleg; 
+contactFormEmail: olegkomenda12@gmail.com; 
+contactFormPhone: 380637169005; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 12; 
+rangeLocDevicesCal: 87; 
+beforeLocUsers: 4; 
+beforeLocDevices: 4; 
+usersQuantity: 23; 
+devicesQuantity: 53; 
+nowLicenseType1: on; 
+nowLicenseType2: disabled; 
+nowLicenseType3: disabled; 
+nowLicenseType4: on; 
+nowCalVersion1: on; 
+nowCalVersion2: disabled; 
+nowCalVersion3: on; 
+nowCalVersion4: disabled; 
+neededUserCal: ; 
+neededDeviceCal: ; 
+contactFormName: Олег; 
+contactFormEmail: olegkomenda12@gmail.com; 
+contactFormPhone: 00000000000; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 4; 
+rangeLocUsersCal: 15; 
+rangeLocDevicesCal: 85; 
+beforeLocUsers: 43; 
+beforeLocDevices: 23; 
+usersQuantity: 4; 
+devicesQuantity: 2; 
+nowLicenseType1: on; 
+nowLicenseType2: disabled; 
+nowLicenseType3: on; 
+nowLicenseType4: disabled; 
+nowCalVersion1: disabled; 
+nowCalVersion2: on; 
+nowCalVersion3: on; 
+nowCalVersion4: disabled; 
+neededUserCal: 47; 
+neededDeviceCal: 25; 
+contactFormName: Олег; 
+contactFormEmail: wefweff@gmail.com; 
+contactFormPhone: 00000000000; 
+
+
+
+License type: 1; 
+DatacenterProc: 4; 
+DatacenterCore: 23; 
+rangeLocUsersCal: 18; 
+rangeLocDevicesCal: 86; 
+beforeLocUsers: 4; 
+beforeLocDevices: 4; 
+usersQuantity: 4; 
+devicesQuantity: 2; 
+nowLicenseType1: disabled; 
+nowLicenseType2: disabled; 
+nowLicenseType3: on; 
+nowLicenseType4: disabled; 
+nowCalVersion1: disabled; 
+nowCalVersion2: disabled; 
+nowCalVersion3: disabled; 
+nowCalVersion4: on; 
+neededUserCal: 8; 
+neededDeviceCal: 6; 
+contactFormName: Олег; 
+contactFormEmail: wefweff@gmail.com; 
+contactFormPhone: 38030303003; 
+
+
+

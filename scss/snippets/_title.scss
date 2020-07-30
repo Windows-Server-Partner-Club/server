@@ -1,0 +1,94 @@
+.title
+{
+  font-family: "Segoe UI", sans-serif;
+
+  &--black
+  {
+    color: black!important;
+  }
+
+  &--white
+  {
+    color: white;
+  }
+
+  &--largest
+  {
+    font-size: rem(36px);
+    font-weight: 600;
+  }
+
+  &--large
+  {
+    font-size: rem(32px);
+    font-weight: 700;
+    margin-bottom: rem(24px);
+  }
+
+  &--normal
+  {
+    font-size: rem(28px);
+    font-weight: 500;
+  }
+
+  &--medium
+  {
+    font-size: rem(24px);
+    margin-bottom: rem(16px);
+    font-weight: 700;
+  }
+
+  &--small
+  {
+    font-size: rem(18px);
+    font-weight: 500;
+
+    span
+    {
+      font-weight: 700;
+    }
+  }
+}
+
+
+@media (max-width: rem(1439px))
+{
+  .possibilities
+  {
+    &__round,
+    .donut-chart.chart4 {
+      width: rem(200px)!important;
+      height: rem(200px)!important;
+
+      & .quad {
+        width: rem(100px);
+        height: rem(100px);
+      }
+
+      .chart-center {
+        width: rem(186px);
+        height: rem(186px);
+      }
+    }
+
+    .possibilities-round__additional {
+      top: -rem(30px);
+    }
+
+    &-round
+    {
+      &__large {
+        font-size: rem(40px);
+      }
+
+      &__normal {
+        font-size: rem(20px);
+      }
+
+      &__additional {
+        font-size: rem(16px);
+        top: -rem(40px);
+      }
+    }
+  }
+}
